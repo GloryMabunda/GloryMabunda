@@ -21,7 +21,7 @@ I am a passionate C# developer with experience in building web applications and 
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![JS Datatables](https://img.shields.io/badge/JS%20Datatables-336791?style=for-the-badge&logo=datatables&logoColor=white)
-
+![Yellowfin BI](https://img.shields.io/badge/Yellowfin%20BI-FFCC00?style=for-the-badge&logo=yellowfin-bi&logoColor=white)
 
 # 📫 Contact Me
 
