@@ -29,3 +29,6 @@ Feel free to reach out if you have any questions or if you'd like to work togeth
 
 **Email:** [sgmabunda@gmail.com](mailto:sgmabunda@gmail.com)
 **LinkedIn:** [Glory Masuluke](https://www.linkedin.com/in/glory-mabunda)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=GloryMabunda&color=ff00ff)
+
