@@ -28,7 +28,10 @@ I am a passionate C# developer with experience in building web applications and 
 Feel free to reach out if you have any questions or if you'd like to work together on a project!
 
 **Email:** [sgmabunda@gmail.com](mailto:sgmabunda@gmail.com)
+
 **LinkedIn:** [Glory Masuluke](https://www.linkedin.com/in/glory-mabunda)
+
+**Online Profile:** [glorymabunda.github.io](https://glorymabunda.github.io)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=GloryMabunda&color=ff00ff)
 
