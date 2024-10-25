@@ -2,12 +2,12 @@
 - 👀 I’m interested in Java, C#, Programming Web Applications
 - 📫 How to reach me sgmabunda@gmail.com
 
-  ## Tech Stack
+## Tech Stack
 
-<img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" alt="ASP.NET Core" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="40" height="40"/>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 <!---
 GloryMabunda/GloryMabunda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
