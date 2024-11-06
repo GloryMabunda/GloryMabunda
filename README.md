@@ -1,6 +1,6 @@
 # 🌍 Hello World!!
 
-Welcome to my GitHub profile! I am a passionate developer, always looking to improve my skills and build exciting projects. Feel free to explore my repositories, check out my work.
+Welcome to my GitHub profile! I’m a developer dedicated to continuous learning and skill-building. My repositories are designed as learning projects, where I experiment with new technologies and approaches. Take a look around and and check out my work in progress!
 
 # 👩🏿‍💻 About Me
 
